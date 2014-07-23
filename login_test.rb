@@ -30,7 +30,7 @@ class LoginTest < Test::Unit::TestCase
 		b = Watir::Browser.new :ff
 
 		# Step 2: Go to 'https://www.groupjump.com'
-		logger.info("Step 2: Go to 'https://www.groupjump.com")
+		logger.info("Step 2: Go to 'https://www.groupjump.com'")
 		b.goto("https://www.groupjump.com")
 
 		# Step 3: Click 'Login' link
