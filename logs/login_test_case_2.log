@@ -1,0 +1,52 @@
+I, [2014-07-23T16:51:02.386521 #1341]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T16:51:02.388268 #1341]  INFO -- : :::: END TESTING login_test_case_2
+I, [2014-07-23T16:58:24.981194 #1347]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T16:58:24.982890 #1347]  INFO -- : :::: END TESTING login_test_case_2
+I, [2014-07-23T17:19:28.486460 #1376]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:19:28.486705 #1376]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:20:42.473930 #1380]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:20:42.474019 #1380]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:20:48.592249 #1380]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:21:39.088863 #1387]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:21:39.088963 #1387]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:21:43.809045 #1387]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-23T17:22:16.957637 #1387]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-23T17:22:17.145254 #1387]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:22:25.909003 #1387]  INFO -- : Step 5: Enter password
+I, [2014-07-23T17:22:26.084116 #1387]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-23T17:22:54.281817 #1387]  INFO -- : TEST PASSED
+I, [2014-07-23T17:24:53.673168 #1394]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:24:53.673258 #1394]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:24:57.816944 #1394]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-23T17:27:26.596516 #1400]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:27:26.596603 #1400]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:27:30.178249 #1400]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-23T17:27:50.741221 #1400]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-23T17:27:50.939653 #1400]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:28:01.978037 #1400]  INFO -- : Step 5: Enter password
+I, [2014-07-23T17:28:02.186989 #1400]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-23T17:28:29.217486 #1400]  INFO -- : TEST PASSED
+I, [2014-07-23T17:28:32.521331 #1400]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:29:53.538000 #1406]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:29:53.538088 #1406]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:29:57.624841 #1406]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-23T17:30:16.445995 #1406]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-23T17:30:16.657241 #1406]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:30:30.908688 #1406]  INFO -- : Step 5: Enter password
+I, [2014-07-23T17:30:31.134364 #1406]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-23T17:31:05.204293 #1406]  INFO -- : TEST PASSED
+I, [2014-07-23T17:31:09.923772 #1406]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-23T17:31:41.378963 #1406]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:31:41.525104 #1406]  INFO -- : Step 5: Enter password
+I, [2014-07-23T17:31:41.724434 #1406]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-23T17:31:55.319049 #1406]  INFO -- : TEST PASSED
+I, [2014-07-23T17:31:58.316013 #1406]  INFO -- : :::: END TESTING login_test_case_2
+I, [2014-07-23T17:33:28.539350 #1413]  INFO -- : :::: START TESTING login_test_case_2
+I, [2014-07-23T17:33:28.539439 #1413]  INFO -- : Step 1: Open browser
+I, [2014-07-23T17:33:34.375442 #1413]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-23T17:34:03.434177 #1413]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-23T17:34:03.631433 #1413]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:34:19.258096 #1413]  INFO -- : Step 5: Enter password
+I, [2014-07-23T17:34:19.434720 #1413]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-23T17:34:55.054447 #1413]  INFO -- : TEST PASSED
+I, [2014-07-23T17:34:59.856122 #1413]  INFO -- : Step 3: Click 'Login' link

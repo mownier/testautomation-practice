@@ -1,4 +1,30 @@
 {
-	"email": "mounir@nextixsystems.com",
-	"password": "zUIpfTGE"
+  "existing_users": [
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "zUIpfTGE"
+    },
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "zUIpfTGE"
+    }
+  ],
+  "nonexisting_users": [
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "adfdsaf"
+    },
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "adfdsaf"
+    },
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "adfdsaf"
+    },
+    {
+      "email": "mounir@nextixsystems.com",
+      "password": "adfdsaf"
+    }
+  ]
 }
