@@ -1,5 +1,4 @@
-sources: rubygems
+source 'https://rubygems.org'
 
-gem "watir-webdriver"
-gem "test/unit"
-gem "logger"
+gem 'watir-webdriver'
+gem 'minitest', '~> 5.4.0'

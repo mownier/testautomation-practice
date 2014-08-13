@@ -1,10 +1,10 @@
-require "test/unit"
 require "watir-webdriver"
+require "minitest/autorun"
 require "logger"
 require "json"
 require "pp"
 
-class LoginTest < Test::Unit::TestCase
+class LoginTest < Minitest::Test
 
 =begin
 	Description: Happy scenario for login

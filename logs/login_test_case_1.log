@@ -21,3 +21,26 @@ I, [2014-07-23T17:36:37.206471 #1419]  INFO -- : Step 1: Open browser
 I, [2014-07-23T17:36:43.881383 #1419]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
 I, [2014-07-23T17:37:41.446821 #1419]  INFO -- : Step 3: Click 'Login' link
 I, [2014-07-23T17:37:41.622639 #1419]  INFO -- : Step 4: Enter email address
+I, [2014-07-23T17:56:55.159037 #1476]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-07-23T17:56:55.159130 #1476]  INFO -- : Step 1: Open browser
+I, [2014-07-24T11:16:35.575330 #1789]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-07-24T11:16:35.575416 #1789]  INFO -- : Step 1: Open browser
+I, [2014-07-24T11:16:43.976238 #1789]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-07-24T11:17:08.340137 #1789]  INFO -- : Step 3: Click 'Login' link
+I, [2014-07-24T11:17:08.640856 #1789]  INFO -- : Step 4: Enter email address
+I, [2014-07-24T11:17:18.509406 #1789]  INFO -- : Step 5: Enter password
+I, [2014-07-24T11:17:18.659281 #1789]  INFO -- : Step 6: Click 'Login' button
+I, [2014-07-24T11:17:18.676349 #1789]  INFO -- : TEST FAILED
+I, [2014-07-24T11:17:18.676419 #1789]  INFO -- : :::: END TESTING login_test_case_1
+I, [2014-08-13T11:18:32.107766 #441]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-08-13T11:18:32.107799 #441]  INFO -- : Step 1: Open browser
+I, [2014-08-13T11:18:35.748604 #441]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-08-13T11:18:50.384806 #441]  INFO -- : Step 3: Click 'Login' link
+I, [2014-08-13T11:18:50.565894 #441]  INFO -- : Step 4: Enter email address
+I, [2014-08-13T11:18:57.243702 #441]  INFO -- : Step 5: Enter password
+I, [2014-08-13T11:18:57.518496 #441]  INFO -- : Step 6: Click 'Login' button
+I, [2014-08-13T11:18:57.565828 #441]  INFO -- : TEST FAILED
+I, [2014-08-13T11:18:57.565921 #441]  INFO -- : :::: END TESTING login_test_case_1
+I, [2014-08-13T11:26:05.647665 #453]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-08-13T11:26:05.647758 #453]  INFO -- : Step 1: Open browser
+I, [2014-08-13T11:26:09.333370 #453]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
