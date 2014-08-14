@@ -57,7 +57,7 @@ class LoginTest < Minitest::Test
 
 		# Step 6: Click 'Login' button
 		logger.info("Step 6: Click 'Login' button")
-		b.button(:value => "Login")
+		b.button(:value => "Login").click
 
 		if b.url == "https://www.groupjump.com/dashboard/flow"
 			# Step 7: If browser url is 'https://www.groupjump.com/dashboard/flow', print TEST PASSED
