@@ -1,3 +1,5 @@
+# ruby my_test.rb -n test_my_method
+
 require "watir-webdriver"
 require "minitest/autorun"
 require "logger"
