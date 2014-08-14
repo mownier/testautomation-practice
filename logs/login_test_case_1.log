@@ -44,3 +44,17 @@ I, [2014-08-13T11:18:57.565921 #441]  INFO -- : :::: END TESTING login_test_case
 I, [2014-08-13T11:26:05.647665 #453]  INFO -- : :::: START TESTING login_test_case_1
 I, [2014-08-13T11:26:05.647758 #453]  INFO -- : Step 1: Open browser
 I, [2014-08-13T11:26:09.333370 #453]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-08-13T11:27:58.502253 #475]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-08-13T11:27:58.502347 #475]  INFO -- : Step 1: Open browser
+I, [2014-08-13T11:28:02.060628 #475]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-08-13T11:28:15.823347 #475]  INFO -- : Step 3: Click 'Login' link
+I, [2014-08-13T11:28:16.008213 #475]  INFO -- : Step 4: Enter email address
+I, [2014-08-14T10:46:49.076829 #527]  INFO -- : :::: START TESTING login_test_case_1
+I, [2014-08-14T10:46:49.076965 #527]  INFO -- : Step 1: Open browser
+I, [2014-08-14T10:46:57.055976 #527]  INFO -- : Step 2: Go to 'https://www.groupjump.com'
+I, [2014-08-14T10:47:17.516644 #527]  INFO -- : Step 3: Click 'Login' link
+I, [2014-08-14T10:47:17.710389 #527]  INFO -- : Step 4: Enter email address
+I, [2014-08-14T10:47:27.327363 #527]  INFO -- : Step 5: Enter password
+I, [2014-08-14T10:47:27.503568 #527]  INFO -- : Step 6: Click 'Login' button
+I, [2014-08-14T10:47:27.521930 #527]  INFO -- : TEST FAILED
+I, [2014-08-14T10:47:27.521999 #527]  INFO -- : :::: END TESTING login_test_case_1
